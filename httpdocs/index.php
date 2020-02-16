@@ -1,1 +1,5 @@
-<h1>Test</h1>
+<?php include('header.php'); ?>
+
+
+
+<?php include('footer.php'); ?>
