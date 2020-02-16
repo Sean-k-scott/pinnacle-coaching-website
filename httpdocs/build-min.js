@@ -1,0 +1,1 @@
+console.log("Minify Test 3 - From Vendor"),console.log("Minify Test 6 - From Vendor");
