@@ -1,10 +1,13 @@
+// Reset Settings
+
 html {
   font-family: 'Raleway', sans-serif;
   scroll-behavior: smooth;
 }
 
 body {
-  min-height: 100vh;
+  min-height: 150vh;
+  margin: 0;
 }
 
 p {
@@ -12,7 +15,7 @@ p {
 }
 
 img {
-  width: 100%;
+  max-width: 100%;
   height: auto;
 }
 
@@ -21,3 +24,36 @@ img {
 *::after {
   box-sizing: border-box;
 }
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0px 15px;
+}
+
+// Variables
+// Colors
+
+$white: #FFFFFF;
+$black: #000000;
+$darkblue: #030217;
+$headerblue: #000079;
+$c2ared: #711515;
+
+// Fonts
+
+h1 {
+  font-size:1.500em;
+  @media (min-width: 568px) {
+    font-size: 4.375em;
+  }
+}
+
+h2 {
+  font-size: 2.188em;
+  @media (min-width: 568px) {
+    font-size: 2.813em;
+  }
+}
+
+// Mixins
