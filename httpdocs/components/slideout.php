@@ -13,23 +13,23 @@
             $homepage = "/";
             $currentpage = $_SERVER['REQUEST_URI'];
           if($homepage!==$currentpage) { ?>
-          <a href="/" title="Return To Homepage">
+          <a href="/pinnaclecoaching/" title="Return To Homepage">
             <li>Home</li>
           </a>
           <?php } ?>
-          <a href="/games.php" title="See Our Games">
+          <a href="/pinnaclecoaching/games.php" title="See Our Games">
             <li>Games</li>
           </a>
-          <a href="/coaches.php" title="Meet Our Coaches">
+          <a href="/pinnaclecoaching/coaches.php" title="Meet Our Coaches">
             <li>Coaches</li>
           </a>
-          <a href="/book.php" title="Book A Session">
+          <a href="/pinnaclecoaching/book.php" title="Book A Session">
             <li>Book</li>
           </a>
-          <a href="/news.php" title="Latest News">
+          <a href="/pinnaclecoaching/news.php" title="Latest News">
             <li>News</li>
           </a>
-          <a href="/about.php" title="About Us">
+          <a href="/pinnaclecoaching/about.php" title="About Us">
             <li>About</li>
           </a>
         </ul>

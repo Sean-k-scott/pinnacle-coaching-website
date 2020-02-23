@@ -13,7 +13,7 @@
   <div class="container">
     <h1 class="centered">Mentality of a Champion</h1>
     <div class="breadcrumbs centered">
-      <a href="/news.php">News</a> > <strong>Mentality of a Champion</strong>
+      <a href="/pinnaclecoaching/news.php">News</a> > <strong>Mentality of a Champion</strong>
     </div>
   </div>
 </section>

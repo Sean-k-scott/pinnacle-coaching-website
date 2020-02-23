@@ -28,7 +28,7 @@
     <div class="about__content__section">
       <h2>We'd love to hear from you!</h2>
       <p>Whether you’re just a site visitor or a customer, we’d love your feedback. If there’s anything you think we can improve on, any additions you’d like from us in the future or if you feel that you could help pinnacle personally in any way, be it writing news articles or becoming a coach, we’d love to hear from you.</p>
-      <p>Drop us an e-mail at <a href="mailto:contact@pinnaclecoaching.net" title="Email Us">contact@pinnaclecoaching.net</a>, join our discord or fill in <a href="/book.php" title="Booking and Contact Form">our contact form</a> and send us your contact information and some details about who you are and what you’d like to do. We hope to hear from you!
+      <p>Drop us an e-mail at <a href="mailto:contact@pinnaclecoaching.net" title="Email Us">contact@pinnaclecoaching.net</a>, join our discord or fill in <a href="/pinnaclecoaching/book.php" title="Booking and Contact Form">our contact form</a> and send us your contact information and some details about who you are and what you’d like to do. We hope to hear from you!
       </p>
     </div>
   </div>

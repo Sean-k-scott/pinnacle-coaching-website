@@ -61,7 +61,7 @@
         <li>Post-plant retake and defending</li>
         <li>Aim Practice Routine</li>
       </ul>
-      <p>For more information about a CS:GO coaching session, please <a href="/book.php">contact us</a> or <a href="https://discord.gg/Wvd7vcX">join our discord</a> and follow the instructions to speak to a member of our coaching staff.</p>
+      <p>For more information about a CS:GO coaching session, please <a href="/pinnaclecoaching/book.php">contact us</a> or <a href="https://discord.gg/Wvd7vcX">join our discord</a> and follow the instructions to speak to a member of our coaching staff.</p>
       <a href="#games" title="Back to Games List" class="button">Back to Games</a>
     </div>
   </div>
@@ -82,7 +82,7 @@
         <li>Wave control and CSing</li>
         <li>Teamfighting</li>
       </ul>
-      <p>For more information about a League of Legends coaching session, please <a href="/book.php">contact us</a> or <a href="https://discord.gg/Wvd7vcX">join our discord</a> and follow the instructions to speak to a member of our coaching staff.</p>
+      <p>For more information about a League of Legends coaching session, please <a href="/pinnaclecoaching/book.php">contact us</a> or <a href="https://discord.gg/Wvd7vcX">join our discord</a> and follow the instructions to speak to a member of our coaching staff.</p>
       <a href="#games" title="Back to Games List" class="button">Back to Games</a>
     </div>
   </div>
@@ -103,7 +103,7 @@
         <li>Competitive lobby strategies</li>
         <li>Practice Routine</li>
       </ul>
-      <p>For more information about a Fortnite coaching session, please <a href="/book.php">contact us</a> or <a href="https://discord.gg/Wvd7vcX">join our discord</a> and follow the instructions to speak to a member of our coaching staff.</p>
+      <p>For more information about a Fortnite coaching session, please <a href="/pinnaclecoaching/book.php">contact us</a> or <a href="https://discord.gg/Wvd7vcX">join our discord</a> and follow the instructions to speak to a member of our coaching staff.</p>
       <a href="#games" title="Back to Games List" class="button">Back to Games</a>
     </div>
   </div>
@@ -124,7 +124,7 @@
         <li>Competitive lobby strategies</li>
         <li>Practice Routine</li>
       </ul>
-      <p>For more information about an Apex Legends coaching session, please <a href="/book.php">contact us</a> or <a href="https://discord.gg/Wvd7vcX">join our discord</a> and follow the instructions to speak to a member of our coaching staff.</p>
+      <p>For more information about an Apex Legends coaching session, please <a href="/pinnaclecoaching/book.php">contact us</a> or <a href="https://discord.gg/Wvd7vcX">join our discord</a> and follow the instructions to speak to a member of our coaching staff.</p>
       <a href="#games" title="Back to Games List" class="button">Back to Games</a>
     </div>
   </div>
@@ -145,7 +145,7 @@
         <li>Flip resetting</li>
         <li>Solo queue tips and tricks</li>
       </ul>
-      <p>For more information about a Rocket League coaching session, please <a href="/book.php">contact us</a> or <a href="https://discord.gg/Wvd7vcX">join our discord</a> and follow the instructions to speak to a member of our coaching staff.</p>
+      <p>For more information about a Rocket League coaching session, please <a href="/pinnaclecoaching/book.php">contact us</a> or <a href="https://discord.gg/Wvd7vcX">join our discord</a> and follow the instructions to speak to a member of our coaching staff.</p>
       <a href="#games" title="Back to Games List" class="button">Back to Games</a>
     </div>
   </div>
@@ -166,7 +166,7 @@
         <li>Grenade Usage</li>
         <li>Playing with and around your teammates</li>
       </ul>
-      <p>For more information about a Rainbow Six: Siege coaching session, please <a href="/book.php">contact us</a> or <a href="https://discord.gg/Wvd7vcX">join our discord</a> and follow the instructions to speak to a member of our coaching staff.</p>
+      <p>For more information about a Rainbow Six: Siege coaching session, please <a href="/pinnaclecoaching/book.php">contact us</a> or <a href="https://discord.gg/Wvd7vcX">join our discord</a> and follow the instructions to speak to a member of our coaching staff.</p>
       <a href="#games" title="Back to Games List" class="button">Back to Games</a>
     </div>
   </div>
@@ -187,7 +187,7 @@
         <li>Playing around enemy spawns and teammates</li>
         <li>Mastering CQC (Close Quarters Combat)</li>
       </ul>
-      <p>For more information about a Destiny 2 coaching session, please <a href="/book.php">contact us</a> or <a href="https://discord.gg/Wvd7vcX">join our discord</a> and follow the instructions to speak to a member of our coaching staff.</p>
+      <p>For more information about a Destiny 2 coaching session, please <a href="/pinnaclecoaching/book.php">contact us</a> or <a href="https://discord.gg/Wvd7vcX">join our discord</a> and follow the instructions to speak to a member of our coaching staff.</p>
       <a href="#games" title="Back to Games List" class="button">Back to Games</a>
     </div>
   </div>
@@ -208,7 +208,7 @@
         <li>Lategame strategy</li>
         <li>Playing in fatigue</li>
       </ul>
-      <p>For more information about a Hearthstone coaching session, please <a href="/book.php">contact us</a> or <a href="https://discord.gg/Wvd7vcX">join our discord</a> and follow the instructions to speak to a member of our coaching staff.</p>
+      <p>For more information about a Hearthstone coaching session, please <a href="/pinnaclecoaching/book.php">contact us</a> or <a href="https://discord.gg/Wvd7vcX">join our discord</a> and follow the instructions to speak to a member of our coaching staff.</p>
       <a href="#games" title="Back to Games List" class="button">Back to Games</a>
     </div>
   </div>

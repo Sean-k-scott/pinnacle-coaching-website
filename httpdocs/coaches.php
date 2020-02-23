@@ -16,7 +16,7 @@
   <div class="container">
     <h2 class="centered">Learn to Play. Play to Win.</h2>
     <p>At Pinnacle Coaching, all our coaches have at minimum competed in Semi-Professional or Professional Tournaments and are in the top 1.5% of ranks in their respective games.</p>
-    <p>Many of our coaches also have vast experience with in-game strategy, leading teams and the pressures and pitfalls of organised and tournament play. They also specialise in teaching you how to practice, ensuring that you can continue to improve past the sessions we provide. Learn the <a href="/news/article001.php">Mindset of a Champion</a>.</p>
+    <p>Many of our coaches also have vast experience with in-game strategy, leading teams and the pressures and pitfalls of organised and tournament play. They also specialise in teaching you how to practice, ensuring that you can continue to improve past the sessions we provide. Learn the <a href="/pinnaclecoaching/news/article001.php">Mindset of a Champion</a>.</p>
   </div>
 </section>
 

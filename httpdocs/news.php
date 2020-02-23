@@ -14,7 +14,7 @@
 <section class="news__latest">
   <div class="container">
     <h2>Latest Article</h2>
-    <a href="/news/article001.php" title="Mentality of a Champion" class="latest__article">
+    <a href="/pinnaclecoaching/news/article001.php" title="Mentality of a Champion" class="latest__article">
       <img src="/pinnaclecoaching/assets/img/news/001.jpg" alt="Competitive player holding trophy" />
       <div class="latest__article__info">
         <h3>Mentality of a Champion</h3>
