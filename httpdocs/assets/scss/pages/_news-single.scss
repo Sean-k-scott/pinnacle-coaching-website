@@ -1,0 +1,62 @@
+section.single__intro {
+  margin-top: 85px!important;
+  margin-bottom: 25px;
+  padding-top: 50px;
+  @media (min-width: 769px) {
+    padding-top: 75px;
+  }
+  h1 {
+    color: $headingblue;
+    margin-bottom: 25px;
+  }
+  .breadcrumbs {
+    color: $headingblue;
+    font-size: 14px;
+    a {
+      &:visited {
+        color: $headingblue;
+      }
+    }
+  }
+}
+
+section.single__article {
+  margin-bottom: 75px;
+  @media (min-width: 769px) {
+    margin-bottom: 100px;
+  }
+  .article {
+    &__info {
+      width: 100%;
+      h3 {
+        margin-bottom: 5px;
+      }
+      h3, h4 {
+        color: $headingblue;
+        text-align: center;
+      }
+    }
+    &__content {
+      @include clearfix;
+      margin-top: 50px;
+      text-align: center;
+      @media (min-width: 769px) {
+        text-align: left;
+      }
+      img {
+        float: none;
+        margin: 15px 0;
+        @media (min-width: 769px) {
+          &:nth-child(odd) {
+            float: left;
+            margin: 0 25px 0 0;
+          }
+          &:nth-child(even) {
+            float: right;
+            margin: 0 0 0 25px;
+          }
+        }
+      }
+    }
+  }
+}

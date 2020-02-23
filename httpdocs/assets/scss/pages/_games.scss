@@ -1,0 +1,146 @@
+section.games-topfold {
+  background-image: url('/assets/img/background/games-topfold.jpg');
+  h1 {
+    color: $white;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.5);
+  }
+}
+
+section.games-choose {
+  p {
+    max-width: 900px;
+    margin: 0 auto 25px auto;
+  }
+  .games {
+    &__c2awrapper {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      max-width: 1200px;
+      .button {
+        font-size: 0.850em;
+        max-width: 200px;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        height: 80px;
+        width: 100%;
+      }
+      .c2a {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 10px;
+        flex: 20% 0 0;
+        @media (max-width: 992px) {
+          flex: 30% 0 0;
+        }
+        @media (max-width: 768px) {
+          flex: 45% 0 0;
+        }
+        @media (max-width: 568px) {
+          flex: 100% 0 0;
+        }
+      }
+    }
+  }
+}
+
+section.game {
+  .game {
+    &__infobox {
+      position: relative;
+      background-color: rgba(3,2,23,0.75);
+      border-radius: 20px;
+      padding: 30px 15px;
+      max-width: 700px;
+      @media (min-width: 450px) and (max-width: 768px) {
+        padding: 30px 25px;
+      }
+      @media (min-width: 769px) {
+        padding: 50px;
+      }
+      h3, p, li {
+        color: $white;
+      }
+      h3 {
+        margin-bottom: 15px;
+      }
+      p {
+        margin-bottom: 10px;
+        &:last-child {
+          margin-bottom: 0px;
+        }
+      }
+      a {
+        color: $white;
+        &:hover {
+          color: darken($white, 15%);
+        }
+      }
+      ul {
+        list-style-type: none;
+        padding-left: 50px;
+        li {
+          position: relative;
+          margin-bottom: 15px;
+          &:before {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-40%);
+            left: -35px;
+            content: url('assets/img/logos-icons/list-check.svg');
+          }
+          &:last-child {
+            margin-bottom: 0px;
+          }
+        }
+      }
+      .anchor {
+        position: absolute;
+        top: -50px;
+      }
+    }
+  }
+}
+
+section.game-csgo {
+  margin-top: 75px;
+  @media (min-width: 769px) {
+    margin-top: 100px;
+  }
+  background-image: url('/assets/img/background/background-csgo.jpg');
+}
+
+section.game-league {
+  background-image: url('/assets/img/background/background-league.jpg');
+}
+
+section.game-fortnite {
+  background-image: url('/assets/img/background/background-fortnite.jpg');
+}
+
+section.game-apex {
+  background-image: url('/assets/img/background/background-apex.jpg');
+}
+
+section.game-rocketleague {
+  background-image: url('/assets/img/background/background-rocketleague.jpg');
+}
+
+section.game-rainbowsix {
+  background-image: url('/assets/img/background/background-rainbowsix.jpg');
+}
+
+section.game-destinytwo {
+  background-image: url('/assets/img/background/background-destiny2.jpg');
+}
+
+section.game-hearthstone {
+  margin-bottom: 75px;
+  @media (min-width: 769px) {
+    margin-bottom: 100px;
+  }
+  background-image: url('/assets/img/background/background-hearthstone.jpg');
+}

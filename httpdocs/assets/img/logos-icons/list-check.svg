@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>check-circle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Games-Desktop-(Full)" transform="translate(-576.000000, -1727.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="CS:GO" transform="translate(501.000000, 1474.000000)">
+                <g id="Session-Content-List" transform="translate(75.000000, 253.000000)">
+                    <g id="List-Item">
+                        <g id="check-circle">
+                            <path d="M20,10 C20,15.5228629 15.5228629,20 10,20 C4.4771371,20 0,15.5228629 0,10 C0,4.4771371 4.4771371,0 10,0 C15.5228629,0 20,4.4771371 20,10 Z M9.25256,15.0114862 L16.61256,7.60912702 C16.86248,7.35776865 16.86248,6.95019636 16.61256,6.69883799 L15.70748,5.78854895 C15.45756,5.53715035 15.05232,5.53715035 14.80236,5.78854895 L8.8,11.8254143 L5.99764,9.00692578 C5.74772,8.75556741 5.34248,8.75556741 5.09252,9.00692578 L4.18744,9.91721481 C3.93752,10.1685732 3.93752,10.5761455 4.18744,10.8275038 L8.34744,15.011446 C8.5974,15.2628446 9.0026,15.2628446 9.25256,15.0114862 L9.25256,15.0114862 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

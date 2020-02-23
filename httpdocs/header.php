@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="description" content="<?php echo $metadesc; ?>">
     <meta name="keywords" content="<?php echo $metakeywords; ?>">
-    <title><?php echo $title; ?></title>
+    <title><?php echo $metatitle; ?></title>
     <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="/pinnacle.css">
   </head>
@@ -30,11 +30,11 @@
                 <img src="/assets/img/logos-icons/logo-black.png" class="logo" alt="Pinnacle Logo" />
               </a>
           <?php } else { ?>
-              <a href="/" title="To Homepage" class="logo non-transformed">
-                <img src="/assets/img/logos-icons/logo-white.png" alt="Pinnacle Logo" />
+              <a href="/" title="To Homepage">
+                <img src="/assets/img/logos-icons/logo-white.png" alt="Pinnacle Logo" class="logo non-transformed" />
               </a>
               <a href="/" title="To Homepage" class="logo transformed">
-                <img src="/assets/img/logo-black.png" alt="Pinnacle Logo" />
+                <img src="/assets/img/logos-icons/logo-black.png" alt="Pinnacle Logo" class="logo transformed" />
               </a>
               <?php } ?>
             <?php } ?>
@@ -53,12 +53,29 @@
           <div class="nav-wrapper">
             <nav class="header__nav">
               <ul>
-                <li>Home</li>
-                <li>Games</li>
-                <li>Coaches</li>
-                <li>Book</li>
-                <li>News</li>
-                <li>About</li>
+                <?php
+                  $homepage = "/";
+                  $currentpage = $_SERVER['REQUEST_URI'];
+                if($homepage!==$currentpage) { ?>
+                <a href="/" title="Return To Homepage">
+                  <li>Home</li>
+                </a>
+                <?php } ?>
+                <a href="/games.php" title="See Our Games">
+                  <li>Games</li>
+                </a>
+                <a href="/coaches.php" title="Meet Our Coaches">
+                  <li>Coaches</li>
+                </a>
+                <a href="/book.php" title="Book A Session">
+                  <li>Book</li>
+                </a>
+                <a href="/news.php" title="Latest News">
+                  <li>News</li>
+                </a>
+                <a href="/about.php" title="About Us">
+                  <li>About</li>
+                </a>
               </ul>
             </nav>
             <a href="https://discord.gg/Wvd7vcX" title="Join our Discord!">

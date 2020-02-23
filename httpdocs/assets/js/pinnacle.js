@@ -7,7 +7,7 @@ jQuery( function( $ ) {
 
   function headerScroll() {
     var scroll = $( window ).scrollTop();
-    if ( 120 < scroll ) {
+    if ( 85 < scroll ) {
       $( 'header' ).addClass( 'header-transform' );
     }  else {
       $( 'header' ).removeClass( 'header-transform' );
@@ -21,3 +21,5 @@ jQuery( function( $ ) {
   });
 
 });
+
+console.log('%cY%c%cE%c%cE%c%cT', 'color: red;', '', 'color: green;', '', 'color: blue;', '', 'color: pink;', '');

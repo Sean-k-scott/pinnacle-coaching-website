@@ -1,12 +1,60 @@
-section.topfold {
-  padding-top: 9rem;
-  position: relative;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
+section.home-topfold {
+  background-image: url('/assets/img/background/home-topfold.jpg');
+  h1 {
+    color: $white;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.5);
+  }
+  .to-content {
+    position: absolute;
+    bottom: 50px;
+    animation: bounce 2s ease 2s 1;
+    left: calc(50% - 43px);
+    @media (max-width: 768px) {
+      width: 60px;
+      left: calc(50% - 30px);
+    }
+  }
 }
 
-section.home-topfold {
-  background-image: url('/assets/img/background/home-bg-lg.jpg');
-  min-height: 700px;
+section.home-improve {
+  .container {
+    text-align: center;
+  }
+  h2 {
+    color: $headingblue;
+    margin-bottom: 35px;
+  }
+  .badges-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+}
+
+section.home-yourdevice {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-repeat: repeat-y;
+  background-position: center center;
+  background-image: url('/assets/img/background/your-device.jpg');
+  min-height: 550px;
+  padding: 50px 0px;
+  @media (min-width: 769px) {
+    padding: 100px 0px;
+  }
+
+  .device__container {
+    background-color: $white;
+    border-radius: 25px;
+    padding: 30px 15px;
+    max-width: 700px;
+    @media (min-width: 450px) and (max-width: 768px) {
+      padding: 30px 25px;
+    }
+    @media (min-width: 769px) {
+      padding: 50px;
+    }
+  }
 }

@@ -1,0 +1,121 @@
+footer {
+  background-color: $footerblue;
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 25px 15px;
+    @media (min-width: 993px) {
+      flex-direction: row;
+      justify-content: center;
+      padding: 25px 75px;
+    }
+    @media (min-width: 769px) and (max-width: 992px) {
+      padding: 25px 50px;
+      flex-direction: row;
+      justify-content: center;
+    }
+  }
+  .footer {
+    &__logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+      &__site {
+        margin-left: 15px;
+        color: $white;
+        font-size: 1.250em;
+      }
+    }
+    &__contact {
+      color: $white;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: left;
+      @media (max-width: 768px) {
+        align-items: center;
+      }
+      &__header {
+        display: none;
+        font-size: 1.250em;
+        margin-bottom: 5px;
+        @media (min-width: 769px) {
+          display: block;
+        }
+      }
+      &__email {
+        font-size: 1.095em;
+        color: $white;
+        text-decoration: none;
+        @include underline-effect($white);
+        margin-bottom: 15px;
+        @media (max-width: 768px) {
+          margin-top: 25px;
+        }
+      }
+      &__logos {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        a {
+          margin: 0px 10px;
+          &:first-child {
+            margin-left: 0px;
+          }
+          &:last-child {
+            margin-right: 0px;
+          }
+        }
+      }
+    }
+    &__nav {
+      display: none;
+      ul {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        list-style-type: none;
+        padding-left: 0px;
+        a {
+          text-decoration: none;
+          @include underline-effect($white);
+          color: $white;
+          margin-bottom: 10px;
+          &:last-child {
+            margin-bottom: none;
+          }
+        }
+      }
+      @media (min-width: 769px) {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+    }
+  }
+  .divider {
+    border-left: 1px solid rgba(255,255,255,0.5);
+    border-bottom: none;
+    width: auto;
+    height: 100px;
+    margin: auto 50px;
+
+    &.one {
+      @media (max-width: 768px) {
+        border-left: none;
+        border-bottom: 1px solid rgba(255,255,255,0.5);
+        height: 1px;
+        width: 270px;
+        margin: 0 auto;
+        margin-top: 25px;
+      }
+    }
+    &.two {
+      @media (max-width: 768px) {
+        display: none;
+      }
+    }
+  }
+}

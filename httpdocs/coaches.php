@@ -1,0 +1,82 @@
+<?php $metatitle = ""; ?>
+<?php $metadesc = "test"; ?>
+<?php $metakeywords = "test"; ?>
+<?php $headertype = "clear"; ?>
+
+<?php include('header.php'); ?>
+
+<section class="topfold coaches-topfold">
+  <div class="container">
+    <h1 class="centered">Meet Our Coaches<br/>
+      Learn, Improve, Win.</h1>
+  </div>
+</section>
+
+<section class="coaches__intro">
+  <div class="container">
+    <h2 class="centered">Learn to Play. Play to Win.</h2>
+    <p>At Pinnacle Coaching, all our coaches have at minimum competed in Semi-Professional or Professional Tournaments and are in the top 1.5% of ranks in their respective games.</p>
+    <p>Many of our coaches also have vast experience with in-game strategy, leading teams and the pressures and pitfalls of organised and tournament play. They also specialise in teaching you how to practice, ensuring that you can continue to improve past the sessions we provide. Learn the <a href="/news/article001.php">Mindset of a Champion</a>.</p>
+  </div>
+</section>
+
+<section class="coaches__info">
+  <div class="container">
+    <div class="grid">
+      <div class="coach-image">
+        <img src="/assets/img/placeholder/placeholder-coach.jpg" alt="Placeholder Coach Image" />
+      </div>
+      <div class="coach-content">
+        <h3>Test "Testie" McTesterson</h3>
+        <h4>CS:GO | Apex Legends | Destiny 2</h4>
+        <p>An ex-semi professional CS:GO player, Test is an FPS and team-game specialist. He has attended multiple international events such as ESEA Qualifers in France and Dreamhack Winter in Sweden.</p>
+        <p>Test is currently Rank 10 FaceIT and A+ ESEA, and is a former In-game leader, AWPer and Entry Fragger in CS:GO, he is also multi-legend in Destiny 2 and Apex Predator in Apex Legends, so no matter your FPS game of choice Test can coach you to victory.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="coaches__info">
+  <div class="container">
+    <div class="grid">
+      <div class="coach-image">
+        <img src="/assets/img/placeholder/placeholder-coach.jpg" alt="Placeholder Coach Image" />
+      </div>
+      <div class="coach-content">
+        <h3>Test "Testie" McTesterson</h3>
+        <h4>CS:GO | Apex Legends | Destiny 2</h4>
+        <p>An ex-semi professional CS:GO player, Test is an FPS and team-game specialist. He has attended multiple international events such as ESEA Qualifers in France and Dreamhack Winter in Sweden.</p>
+        <p>Test is currently Rank 10 FaceIT and A+ ESEA, and is a former In-game leader, AWPer and Entry Fragger in CS:GO, he is also multi-legend in Destiny 2 and Apex Predator in Apex Legends, so no matter your FPS game of choice Test can coach you to victory.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="coaches__partnership">
+  <div class="container">
+    <img src="/assets/img/team-halcyon.jpg" alt="Team Halcyon Logo" />
+    <div class="coaches__partnership__info">
+      <h2 class="centered">Pinnacle Coaching are partnered with Team Halcyon!</h2>
+      <p>Pinnacle Coaching and Team Halcyon are partnered to bring you a more diverse and involved coaching experience!</p>
+      <p>The Halcyon players are available for you to message as soon as you book a session, they can help prepare you for your session as well as answer any questions you might have.</p>
+    </div>
+  </div>
+</section>
+
+<section class="coaches__info">
+  <div class="container">
+    <div class="grid">
+      <div class="coach-image">
+        <img src="/assets/img/placeholder/placeholder-coach.jpg" alt="Placeholder Coach Image" />
+      </div>
+      <div class="coach-content">
+        <h3>Test "Testie" McTesterson</h3>
+        <h4>CS:GO | Apex Legends | Destiny 2</h4>
+        <p>An ex-semi professional CS:GO player, Test is an FPS and team-game specialist. He has attended multiple international events such as ESEA Qualifers in France and Dreamhack Winter in Sweden.</p>
+        <p>Test is currently Rank 10 FaceIT and A+ ESEA, and is a former In-game leader, AWPer and Entry Fragger in CS:GO, he is also multi-legend in Destiny 2 and Apex Predator in Apex Legends, so no matter your FPS game of choice Test can coach you to victory.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<?php include('footer.php'); ?>

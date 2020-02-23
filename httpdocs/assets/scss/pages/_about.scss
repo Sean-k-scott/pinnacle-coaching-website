@@ -1,0 +1,26 @@
+section.about__intro {
+  margin-top: 85px!important; // Compensate for Static Header bar on Tablet/Mobile
+  padding-top: 75px;
+  @media (min-width: 769px) {
+    padding-top: 100px;
+  }
+  h1 {
+    color: $headingblue;
+  }
+}
+
+section.about__content {
+  margin: 75px 0px;
+  @media (min-width: 769px) {
+    margin: 100px 0px;
+  }
+  .about__content__section {
+    margin-bottom: 50px;
+    &:last-child {
+      margin-bottom: 0px;
+    }
+    h2 {
+      margin-bottom: 25px;
+    }
+  }
+}
