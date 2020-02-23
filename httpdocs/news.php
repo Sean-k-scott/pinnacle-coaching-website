@@ -1,6 +1,6 @@
-<?php $metatitle = "" ?>
-<?php $metadesc = "test"; ?>
-<?php $metakeywords = "test"; ?>
+<?php $metatitle = "Latest News | Pinnacle Coaching" ?>
+<?php $metadesc = "Pinnacle Coaching News - Learn to become a better player. Improve your game, lifestyle and mentality. Become a Champion."; ?>
+<?php $metakeywords = "News, Pinnacle, Coaching, esports, learn, practice, improve, video game coaching, computer game coaching, coaching"; ?>
 <?php $headertype = "white"; ?>
 
 <?php include('header.php'); ?>
@@ -15,7 +15,7 @@
   <div class="container">
     <h2>Latest Article</h2>
     <a href="/news/article001.php" title="Mentality of a Champion" class="latest__article">
-      <img src="/assets/img/news/001.jpg" alt="Competitive player holding trophy" />
+      <img src="/pinnaclecoaching/assets/img/news/001.jpg" alt="Competitive player holding trophy" />
       <div class="latest__article__info">
         <h3>Mentality of a Champion</h3>
         <h4>22nd February 2020</h4>
@@ -32,7 +32,7 @@
     <h2>Latest Article</h2>
     <div class="previous__container">
       <a href="#" title="A Recipe For Success" class="previous__article">
-        <img src="/assets/img/news/002.jpg" alt="Healthy Food Being Prepared" />
+        <img src="/pinnaclecoaching/assets/img/news/002.jpg" alt="Healthy Food Being Prepared" />
         <div class="previous__article__info">
           <h3>A Recipe for Success</h3>
           <h4>3rd March 2020</h4>
@@ -42,7 +42,7 @@
         </div>
       </a>
       <a href="#" title="A Recipe For Success" class="previous__article">
-        <img src="/assets/img/news/002.jpg" alt="Competitive player holding trophy" />
+        <img src="/pinnaclecoaching/assets/img/news/002.jpg" alt="Competitive player holding trophy" />
         <div class="previous__article__info">
           <h3>A Recipe for Success</h3>
           <h4>3rd March 2020</h4>
@@ -52,7 +52,7 @@
         </div>
       </a>
       <a href="#" title="A Recipe For Success" class="previous__article">
-        <img src="/assets/img/news/002.jpg" alt="Healthy Food Being Prepared" />
+        <img src="/pinnaclecoaching/assets/img/news/002.jpg" alt="Healthy Food Being Prepared" />
         <div class="previous__article__info">
           <h3>A Recipe for Success</h3>
           <h4>3rd March 2020</h4>
@@ -62,7 +62,7 @@
         </div>
       </a>
       <a href="#" title="A Recipe For Success" class="previous__article">
-        <img src="/assets/img/news/002.jpg" alt="Healthy Food Being Prepared" />
+        <img src="/pinnaclecoaching/assets/img/news/002.jpg" alt="Healthy Food Being Prepared" />
         <div class="previous__article__info">
           <h3>A Recipe for Success</h3>
           <h4>3rd March 2020</h4>

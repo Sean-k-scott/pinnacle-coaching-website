@@ -1,6 +1,6 @@
-<?php $metatitle = ""; ?>
-<?php $metadesc = "test"; ?>
-<?php $metakeywords = "test"; ?>
+<?php $metatitle = "Coaches | Pinnacle Coaching" ?>
+<?php $metadesc = "Our coaches have years of competitive experience and can help you achieve the rank you're striving for, take a look and book a session with us today."; ?>
+<?php $metakeywords = "Coaches, Pinnacle, Coaching, esports, learn, practice, improve, video game coaching, computer game coaching, coaching"; ?>
 <?php $headertype = "clear"; ?>
 
 <?php include('header.php'); ?>
@@ -24,7 +24,7 @@
   <div class="container">
     <div class="grid">
       <div class="coach-image">
-        <img src="/assets/img/placeholder/placeholder-coach.jpg" alt="Placeholder Coach Image" />
+        <img src="/pinnaclecoaching/assets/img/placeholder/placeholder-coach.jpg" alt="Placeholder Coach Image" />
       </div>
       <div class="coach-content">
         <h3>Test "Testie" McTesterson</h3>
@@ -40,7 +40,7 @@
   <div class="container">
     <div class="grid">
       <div class="coach-image">
-        <img src="/assets/img/placeholder/placeholder-coach.jpg" alt="Placeholder Coach Image" />
+        <img src="/pinnaclecoaching/assets/img/placeholder/placeholder-coach.jpg" alt="Placeholder Coach Image" />
       </div>
       <div class="coach-content">
         <h3>Test "Testie" McTesterson</h3>
@@ -54,7 +54,7 @@
 
 <section class="coaches__partnership">
   <div class="container">
-    <img src="/assets/img/team-halcyon.jpg" alt="Team Halcyon Logo" />
+    <img src="/pinnaclecoaching/assets/img/team-halcyon.jpg" alt="Team Halcyon Logo" />
     <div class="coaches__partnership__info">
       <h2 class="centered">Pinnacle Coaching are partnered with Team Halcyon!</h2>
       <p>Pinnacle Coaching and Team Halcyon are partnered to bring you a more diverse and involved coaching experience!</p>
@@ -67,7 +67,7 @@
   <div class="container">
     <div class="grid">
       <div class="coach-image">
-        <img src="/assets/img/placeholder/placeholder-coach.jpg" alt="Placeholder Coach Image" />
+        <img src="/pinnaclecoaching/assets/img/placeholder/placeholder-coach.jpg" alt="Placeholder Coach Image" />
       </div>
       <div class="coach-content">
         <h3>Test "Testie" McTesterson</h3>

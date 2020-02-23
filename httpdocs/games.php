@@ -1,6 +1,6 @@
-<?php $metatitle = "" ?>
-<?php $metadesc = "test"; ?>
-<?php $metakeywords = "test"; ?>
+<?php $metatitle = "Games | Pinnacle Coaching" ?>
+<?php $metadesc = "Take a look at the collection of games we offer coaching for, and what a session with us involves. We can tailor our sessions specifically to your needs, get in touch for more information."; ?>
+<?php $metakeywords = "games, csgo, counter-strike, league, league of legends, destiny, rainbow six siege, hearthstone, apex legends, fortnite, rocket league, pinnacle, coaching, esports, learn, practice, improve, video game coaching, computer game coaching, coaching"; ?>
 <?php $headertype = "clear"; ?>
 
 <?php include('header.php'); ?>

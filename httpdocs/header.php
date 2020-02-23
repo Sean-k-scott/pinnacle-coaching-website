@@ -7,8 +7,8 @@
     <meta name="description" content="<?php echo $metadesc; ?>">
     <meta name="keywords" content="<?php echo $metakeywords; ?>">
     <title><?php echo $metatitle; ?></title>
-    <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="/pinnacle.css">
+    <link rel="icon" href="pinnaclecoaching/assets/img/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="pinnaclecoaching/pinnacle.css">
   </head>
   <body>
     <header class="header <?php
@@ -20,21 +20,21 @@
           $currentpage = $_SERVER['REQUEST_URI'];
         if($homepage==$currentpage) { ?>
           <?php if($headertype == "white") { ?>
-            <img src="/assets/img/logos-icons/logo-black.png" class="logo" alt="Pinnacle Logo" />
+            <img src="/pinnaclecoaching/assets/img/logos-icons/logo-black.png" class="logo" alt="Pinnacle Logo" />
           <?php } else { ?>
-            <img src="/assets/img/logos-icons/logo-white.png" alt="Pinnacle Logo" class="logo non-transformed" />
-            <img src="/assets/img/logos-icons/logo-black.png" alt="Pinnacle Logo" class="logo transformed" />
+            <img src="/pinnaclecoaching/assets/img/logos-icons/logo-white.png" alt="Pinnacle Logo" class="logo non-transformed" />
+            <img src="/pinnaclecoaching/assets/img/logos-icons/logo-black.png" alt="Pinnacle Logo" class="logo transformed" />
           <?php } } else {
             if($headertype == "white") { ?>
               <a href="/" title="To Homepage">
-                <img src="/assets/img/logos-icons/logo-black.png" class="logo" alt="Pinnacle Logo" />
+                <img src="/pinnaclecoaching/assets/img/logos-icons/logo-black.png" class="logo" alt="Pinnacle Logo" />
               </a>
           <?php } else { ?>
               <a href="/" title="To Homepage">
-                <img src="/assets/img/logos-icons/logo-white.png" alt="Pinnacle Logo" class="logo non-transformed" />
+                <img src="/pinnaclecoaching/assets/img/logos-icons/logo-white.png" alt="Pinnacle Logo" class="logo non-transformed" />
               </a>
               <a href="/" title="To Homepage" class="logo transformed">
-                <img src="/assets/img/logos-icons/logo-black.png" alt="Pinnacle Logo" class="logo transformed" />
+                <img src="/pinnaclecoaching/assets/img/logos-icons/logo-black.png" alt="Pinnacle Logo" class="logo transformed" />
               </a>
               <?php } ?>
             <?php } ?>

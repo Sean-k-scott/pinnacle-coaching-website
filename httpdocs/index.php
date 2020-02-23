@@ -1,6 +1,6 @@
-<?php $metatitle = "" ?>
-<?php $metadesc = "Competitive Gaming Coaching Sessions | Pinnacle Coaching"; ?>
-<?php $metakeywords = "Pinnacle, Coaching, Professional, Gaming, Videogames, Sessions, Book, Improve, Compete, Leagues, Ranks"; ?>
+<?php $metatitle = "Home | Pinnacle Coaching" ?>
+<?php $metadesc = "Pinnacle Coaching provides high level coaching sessions to players of all abilities, helping you improve in your game of choice and reach the level you strive for."; ?>
+<?php $metakeywords = "Coaches, Pinnacle, Coaching, esports, learn, practice, improve, video game coaching, computer game coaching, coaching, compete, leagues, ranks, champion, legend"; ?>
 <?php $headertype = "clear"; ?>
 
 <?php include('header.php'); ?>
@@ -11,7 +11,7 @@
         Compete with the Best</h1>
   </div>
   <a href="#content" title="Go To Content">
-    <img src="/assets/img/logos-icons/arrow.svg" alt="To Content" class="to-content" />
+    <img src="/pinnaclecoaching/assets/img/logos-icons/arrow.svg" alt="To Content" class="to-content" />
   </a>
 </section>
 
@@ -20,13 +20,13 @@
     <h2 class="subtitle centered">Improve Your Rank</h2>
     <div class="badges-container">
       <div class="badge-container">
-        <img src="/assets/img/logos-icons/bronze.svg" alt="Bronze Rank Medal" />
+        <img src="/pinnaclecoaching/assets/img/logos-icons/bronze.svg" alt="Bronze Rank Medal" />
       </div>
       <div class="badge-container">
-        <img src="/assets/img/logos-icons/silver.svg" alt="Silver Rank Medal" />
+        <img src="/pinnaclecoaching/assets/img/logos-icons/silver.svg" alt="Silver Rank Medal" />
       </div>
       <div class="badge-container">
-        <img src="/assets/img/logos-icons/gold.svg" alt="Gold Rank Medal">
+        <img src="/pinnaclecoaching/assets/img/logos-icons/gold.svg" alt="Gold Rank Medal">
       </div>
     </div>
   </div>
@@ -54,7 +54,7 @@
   <div class="container">
     <div class="grid">
       <div class="image-right">
-        <img src="/assets/img/team-player.jpg" alt="Lone Wolf or Team Player?" />
+        <img src="/pinnaclecoaching/assets/img/team-player.jpg" alt="Lone Wolf or Team Player?" />
       </div>
       <div class="content-left">
         <h2>Lone Wolf or <br/>Team Player?</h2>
@@ -85,7 +85,7 @@
   <div class="container">
     <div class="grid">
       <div class="image-left">
-        <img src="/assets/img/healthy-mind.jpg" alt="Healthy Body, Healthy Mind" />
+        <img src="/pinnaclecoaching/assets/img/healthy-mind.jpg" alt="Healthy Body, Healthy Mind" />
       </div>
       <div class="content-right">
         <h2>Healthy Body and<br/>a Healthy Mind</h2>

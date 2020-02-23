@@ -1,11 +1,11 @@
     <?php include('components/slideout.php'); ?>
-    <script type="text/javascript" src="/build-min.js"></script>
+    <script type="text/javascript" src="/pinnaclecoaching/build-min.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Raleway:600,800|Spectral:600&display=swap" rel="stylesheet">
   </body>
   <footer>
     <div class="container">
       <div class="footer__logo">
-        <img src="/assets/img/logos-icons/logo-white.png" alt="Pinnacle Coaching" />
+        <img src="/pinnaclecoaching/assets/img/logos-icons/logo-white.png" alt="Pinnacle Coaching" />
         <div class="footer__logo__site">
           Pinnacle Coaching
         </div>
@@ -20,19 +20,19 @@
         </a>
         <div class="footer__contact__logos">
           <a href="https://discord.gg/Wvd7vcX" title="Join Our Discord">
-            <img src="/assets/img/logos-icons/discord.svg" alt="Discord" />
+            <img src="/pinnaclecoaching/assets/img/logos-icons/discord.svg" alt="Discord" />
           </a>
           <a href="#" title="Follow Our Facebook">
-            <img src="/assets/img/logos-icons/facebook.svg" alt="Facebook" />
+            <img src="/pinnaclecoaching/assets/img/logos-icons/facebook.svg" alt="Facebook" />
           </a>
           <a href="#" title="Follow us on Twitter">
-            <img src="/assets/img/logos-icons/twitter.svg" alt="Twitter" />
+            <img src="/pinnaclecoaching/assets/img/logos-icons/twitter.svg" alt="Twitter" />
           </a>
           <a href="#" title="Subscribe to our YouTube">
-            <img src="/assets/img/logos-icons/youtube.svg" alt="YouTube" />
+            <img src="/pinnaclecoaching/assets/img/logos-icons/youtube.svg" alt="YouTube" />
           </a>
           <a href="#" title="Follow us on Instagram">
-            <img src="/assets/img/logos-icons/instagram.svg" alt="Discord" />
+            <img src="/pinnaclecoaching/assets/img/logos-icons/instagram.svg" alt="Discord" />
           </a>
         </div>
       </div>

@@ -1,8 +1,8 @@
 <div class="slideout">
   <div class="slideout__container">
-      <img src="/assets/img/logos-icons/menu-close.svg" alt="Close Menu" class="close toggle-menu" />
+      <img src="/pinnaclecoaching/assets/img/logos-icons/menu-close.svg" alt="Close Menu" class="close toggle-menu" />
       <div class="slideout__logo">
-        <img src="/assets/img/logos-icons/logo-white.png" alt="Pinnacle Logo" />
+        <img src="/pinnaclecoaching/assets/img/logos-icons/logo-white.png" alt="Pinnacle Logo" />
         <div class="slideout__logo__site">
           Pinnacle Coaching
         </div>

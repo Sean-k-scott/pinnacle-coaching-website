@@ -1,6 +1,6 @@
-<?php $metatitle = "" ?>
-<?php $metadesc = "test"; ?>
-<?php $metakeywords = "test"; ?>
+<?php $metatitle = "Book | Pinnacle Coaching" ?>
+<?php $metadesc = "Book A Session with Pinnacle Coaching - Dedicate yourself to improving how you play, become a legend."; ?>
+<?php $metakeywords = "Book, Session, Contact, Pinnacle, Coaching, esports, learn, practice, improve, video game coaching, computer game coaching, coaching"; ?>
 <?php $headertype = "white"; ?>
 
 <?php include('header.php'); ?>
