@@ -29,6 +29,19 @@
       <div class="coach-content">
         <h3>Test "Testie" McTesterson</h3>
         <h4>CS:GO | Apex Legends | Destiny 2</h4>
+        <h5>Current Ranks</h5>
+        <ul>
+          <li>CSGO - ESEA - A+</li>
+          <li>CSGO - FaceIT - Level 10</li>
+          <li>Apex Legends - Apex Predator</li>
+          <li>Destiny 2 - Legend</li>
+        </ul>
+        <h5>Tournaments Attended</h5>
+        <ul>
+          <li>CSGO - CSGN Premier LAN 2014 - 4th Place</li>
+          <li>CSGO - ESWC Qualifiers UK 2016 - 3rd Place</li>
+          <li>Apex Predator - Apex Europe Qualifiers - 4th-8th Place</li>
+        </ul>
         <p>An ex-semi professional CS:GO player, Test is an FPS and team-game specialist. He has attended multiple international events such as ESEA Qualifers in France and Dreamhack Winter in Sweden.</p>
         <p>Test is currently Rank 10 FaceIT and A+ ESEA, and is a former In-game leader, AWPer and Entry Fragger in CS:GO, he is also multi-legend in Destiny 2 and Apex Predator in Apex Legends, so no matter your FPS game of choice Test can coach you to victory.</p>
       </div>
@@ -45,6 +58,19 @@
       <div class="coach-content">
         <h3>Test "Testie" McTesterson</h3>
         <h4>CS:GO | Apex Legends | Destiny 2</h4>
+        <h5>Current Ranks</h5>
+        <ul>
+          <li>CSGO - ESEA - A+</li>
+          <li>CSGO - FaceIT - Level 10</li>
+          <li>Apex Legends - Apex Predator</li>
+          <li>Destiny 2 - Legend</li>
+        </ul>
+        <h5>Tournaments Attended</h5>
+        <ul>
+          <li>CSGO - CSGN Premier LAN 2014 - 4th Place</li>
+          <li>CSGO - ESWC Qualifiers UK 2016 - 3rd Place</li>
+          <li>Apex Predator - Apex Europe Qualifiers - 4th-8th Place</li>
+        </ul>
         <p>An ex-semi professional CS:GO player, Test is an FPS and team-game specialist. He has attended multiple international events such as ESEA Qualifers in France and Dreamhack Winter in Sweden.</p>
         <p>Test is currently Rank 10 FaceIT and A+ ESEA, and is a former In-game leader, AWPer and Entry Fragger in CS:GO, he is also multi-legend in Destiny 2 and Apex Predator in Apex Legends, so no matter your FPS game of choice Test can coach you to victory.</p>
       </div>
@@ -72,6 +98,19 @@
       <div class="coach-content">
         <h3>Test "Testie" McTesterson</h3>
         <h4>CS:GO | Apex Legends | Destiny 2</h4>
+        <h5>Current Ranks</h5>
+        <ul>
+          <li>CSGO - ESEA - A+</li>
+          <li>CSGO - FaceIT - Level 10</li>
+          <li>Apex Legends - Apex Predator</li>
+          <li>Destiny 2 - Legend</li>
+        </ul>
+        <h5>Tournaments Attended</h5>
+        <ul>
+          <li>CSGO - CSGN Premier LAN 2014 - 4th Place</li>
+          <li>CSGO - ESWC Qualifiers UK 2016 - 3rd Place</li>
+          <li>Apex Predator - Apex Europe Qualifiers - 4th-8th Place</li>
+        </ul>
         <p>An ex-semi professional CS:GO player, Test is an FPS and team-game specialist. He has attended multiple international events such as ESEA Qualifers in France and Dreamhack Winter in Sweden.</p>
         <p>Test is currently Rank 10 FaceIT and A+ ESEA, and is a former In-game leader, AWPer and Entry Fragger in CS:GO, he is also multi-legend in Destiny 2 and Apex Predator in Apex Legends, so no matter your FPS game of choice Test can coach you to victory.</p>
       </div>

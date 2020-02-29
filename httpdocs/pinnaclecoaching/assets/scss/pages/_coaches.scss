@@ -9,6 +9,9 @@ section.coaches-topfold {
 section.coaches__intro {
   margin-top: 50px;
   margin-bottom: 75px;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 section.coaches__info {
@@ -26,15 +29,13 @@ section.coaches__info {
   .coach-image {
     grid-column: 2/14;
     grid-row: auto;
-    display: flex;
-    justify-content: center;
     text-align: center;
     @media (min-width: 768px) {
       grid-column: 1/7;
       grid-row: auto;
     }
     @media (min-width: 992px) {
-      grid-column: 1/4;
+      grid-column: 1/5;
       grid-row: 1;
     }
   }
@@ -48,12 +49,33 @@ section.coaches__info {
     h4 {
       margin-bottom: 10px;
     }
+    h5 {
+      color: $headingblue;
+      margin-bottom: 0px;
+    }
+    ul {
+      list-style-type: none;
+      padding-left: 50px;
+      margin-bottom: 30px;
+      li {
+        position: relative;
+        margin-bottom: 15px;
+        &:before {
+          position: absolute;
+          top: 50%;
+          transform: translateY(-40%);
+          left: -35px;
+          width: 20px;
+          content: url('/pinnaclecoaching/assets/img/logos-icons/list-check-black.svg');
+        }
+        &:last-child {
+          margin-bottom: 0px;
+        }
+      }
+    }
     margin-top: 25px;
     grid-column: 2/14;
     grid-row: auto;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
     @media (min-width: 768px) {
       margin-top: 0px;
       grid-column: 8/14;
@@ -61,7 +83,7 @@ section.coaches__info {
     }
     @media (min-width: 992px) {
       margin-top: 0px;
-      grid-column: 5/14;
+      grid-column: 6/14;
       grid-row: 1;
     }
   }

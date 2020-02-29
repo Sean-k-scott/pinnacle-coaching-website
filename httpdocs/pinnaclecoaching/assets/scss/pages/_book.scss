@@ -7,9 +7,10 @@ section.book__intro {
 }
 
 section.book__form {
-  margin: 75px 0px;
+  max-width: 900px;
+  margin: 75px auto;
   @media (min-width: 769px) {
-    margin: 100px 0px;
+    margin: 100px auto;
   }
   .book__form {
     &__container {
