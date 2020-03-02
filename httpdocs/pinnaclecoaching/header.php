@@ -83,5 +83,4 @@
             </a>
           </div>
         </div>
-      </div>
     </header>

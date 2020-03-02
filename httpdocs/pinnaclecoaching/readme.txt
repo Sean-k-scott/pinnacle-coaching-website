@@ -1,4 +1,4 @@
-'gulp start' from httpdocs to run workflow.
+'gulp start' from pinnaclecoaching folder to run workflow.
 
 Worflow as follows:
 

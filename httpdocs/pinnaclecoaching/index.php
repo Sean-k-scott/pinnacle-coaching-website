@@ -50,7 +50,7 @@
   </div>
 </section>
 
-<section id="content" class="home-levelup large-section">
+<section class="home-levelup large-section">
   <div class="container">
     <div class="grid">
       <div class="image-right">
